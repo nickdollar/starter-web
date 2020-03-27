@@ -9,3 +9,7 @@ more changes from myfeature too.
 Sample website with plenty of files for demos
 
 Please fork this repository and the issue.
+
+## Copyright
+
+	All rights reserved
