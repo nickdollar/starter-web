@@ -2,7 +2,7 @@
 
 
 This repository is for showing how Git and GitHub work. Adding line a for rebase, then
-more changes from myfeature too.
+more changes from myfeature too. Updaing fro emergencuy fix.
 
 ## Purpose
 
